@@ -58,8 +58,9 @@ Solutions are written to be easily explainable in interviews and suitable for st
 
 ## Project Structure
 
+
+```bash
 JAVA-DSA/
-│
 ├── src/
 │   ├── arrays/
 │   ├── linkedlist/
@@ -68,11 +69,12 @@ JAVA-DSA/
 │   ├── tree/
 │   ├── graph/
 │   └── algorithms/
-│
 ├── .gitignore
 └── README.md
+```
 
 The project is organized topic-wise to support systematic learning, quick revision, and clean navigation.
+
 
 ---
 
