@@ -1,24 +1,3 @@
-Good — this is the **last missing piece**, and you’re right to be picky.
-
-Important clarification (so we’re aligned):
-
-* You **cannot control fonts** on GitHub README — GitHub enforces the font.
-* The **only correct, professional way** to get larger headers is to use **Markdown headings (`#`, `##`)**.
-* When you said *“don’t write in markdown box”*, that means **don’t wrap everything inside ```markdown** —
-  **NOT** “don’t use headings”.
-
-So below is the **correct, professional GitHub-native solution**:
-
-* Proper **large headers**
-* Clean spacing
-* Same structure as your payment project
-* No code fences, no markdown blocks
-* Interview-safe
-
-You can paste this **directly** into `README.md`.
-
----
-
 # Java DSA (Data Structures & Algorithms)
 
 A structured repository of data structures and algorithms implemented in Java, focused on building strong algorithmic foundations and disciplined problem-solving skills.
